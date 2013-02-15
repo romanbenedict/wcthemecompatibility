@@ -1,0 +1,4 @@
+wcthemecompatibility
+====================
+
+Woocommerce Theme Fix
