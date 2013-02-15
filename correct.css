@@ -1,0 +1,20 @@
+input.input-text.qty.text {
+  margin-top: 0;
+	margin-bottom: 0;
+}
+
+button.single_add_to_cart_button {
+	height: 30px;
+}
+
+p.total {
+	height: 30px;
+}
+
+div.product.type-product {
+	padding: 16px;
+}
+
+ul.products {
+	padding: 16px;
+}
